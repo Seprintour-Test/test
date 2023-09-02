@@ -35,6 +35,7 @@ analytics-mode: true
 incentive-mode: true
 max-concurrent-bounties: 2
 comment-incentives: true
+assistive-pricing: true
 command-settings:
   - name: "start"
     enabled: true
