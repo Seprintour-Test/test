@@ -32,6 +32,7 @@ default-labels:
   - "Priority: 1 (Normal)"
 auto-pay-mode: true
 analytics-mode: false
+assistive-pricing: true
 incentive-mode: true
 max-concurrent-bounties: 2
 comment-incentives: true
