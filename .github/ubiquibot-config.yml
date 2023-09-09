@@ -4,17 +4,104 @@ time-labels:
   - name: "Time: <1 Hour"
     weight: 0.125
     value: 3600
-  - name: "Time: <1 Day"
-    weight: 1
+  - name: "Time: <2 Hours"
+    weight: 0.125
+    value: 7200
+  - name: "Time: <3 Hours"
+    weight: 0.125
+    value: 10800
+  - name: "Time: <4 Hours"
+    weight: 0.125
+    value: 14400
+  - name: "Time: <5 Hours"
+    weight: 0.125
+    value: 18000
+  - name: "Time: <6 Hours"
+    weight: 0.125
+    value: 21600
+  - name: "Time: <7 Hours"
+    weight: 0.125
+    value: 25200
+  - name: "Time: <8 Hours"
+    weight: 0.125
+    value: 28800
+  - name: "Time: <9 Hours"
+    weight: 0.125
+    value: 32400
+  - name: "Time: <10 Hours"
+    weight: 0.125
+    value: 36000
+  - name: "Time: <11 Hours"
+    weight: 0.125
+    value: 39600
+  - name: "Time: <12 Hours"
+    weight: 0.125
+    value: 43200
+  - name: "Time: <13 Hours"
+    weight: 0.125
+    value: 46800
+  - name: "Time: <14 Hours"
+    weight: 0.125
+    value: 50400
+  - name: "Time: <15 Hours"
+    weight: 0.125
+    value: 54000
+  - name: "Time: <16 Hours"
+    weight: 0.125
+    value: 57600
+  - name: "Time: <17 Hours"
+    weight: 0.125
+    value: 61200
+  - name: "Time: <18 Hours"
+    weight: 0.125
+    value: 64800
+  - name: "Time: <19 Hours"
+    weight: 0.125
+    value: 68400
+  - name: "Time: <20 Hours"
+    weight: 0.125
+    value: 72000
+  - name: "Time: <21 Hours"
+    weight: 0.125
+    value: 75600
+  - name: "Time: <22 Hours"
+    weight: 0.125
+    value: 79200
+  - name: "Time: <23 Hours"
+    weight: 0.125
+    value: 82800
+  - name: "Time: <24 Hours"
+    weight: 0.125
     value: 86400
+  - name: "Time: <1 Day"
+    weight: 0.125
+    value: 86400
+  - name: "Time: <2 Days"
+    weight: 0.125
+    value: 172800
+  - name: "Time: <3 Days"
+    weight: 0.125
+    value: 259200
+  - name: "Time: <4 Days"
+    weight: 0.125
+    value: 345600
+  - name: "Time: <5 Days"
+    weight: 0.125
+    value: 432000
+  - name: "Time: <6 Days"
+    weight: 0.125
+    value: 518400
+  - name: "Time: <7 Days"
+    weight: 0.125
+    value: 604800
   - name: "Time: <1 Week"
-    weight: 2
+    weight: 0.125
     value: 604800
   - name: "Time: <2 Weeks"
-    weight: 3
+    weight: 0.125
     value: 1209600
   - name: "Time: <1 Month"
-    weight: 4
+    weight: 0.125
     value: 2592000
 priority-labels:
   - name: "Priority: 1 (Normal)"
