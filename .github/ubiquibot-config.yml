@@ -73,6 +73,54 @@ time-labels:
   - name: "Time: <24 Hours"
     weight: 0.125
     value: 86400
+  - name: "Time: <25 Hours"
+    weight: 0.125
+    value: 90000
+  - name: "Time: <26 Hours"
+    weight: 0.125
+    value: 93600
+  - name: "Time: <27 Hours"
+    weight: 0.125
+    value: 97200
+  - name: "Time: <28 Hours"
+    weight: 0.125
+    value: 100800
+  - name: "Time: <29 Hours"
+    weight: 0.125
+    value: 104400
+  - name: "Time: <30 Hours"
+    weight: 0.125
+    value: 108000
+  - name: "Time: <31 Hours"
+    weight: 0.125
+    value: 111600
+  - name: "Time: <32 Hours"
+    weight: 0.125
+    value: 115200
+  - name: "Time: <33 Hours"
+    weight: 0.125
+    value: 118800
+  - name: "Time: <34 Hours"
+    weight: 0.125
+    value: 122400
+  - name: "Time: <35 Hours"
+    weight: 0.125
+    value: 126000
+  - name: "Time: <36 Hours"
+    weight: 0.125
+    value: 129600
+  - name: "Time: <37 Hours"
+    weight: 0.125
+    value: 133200
+  - name: "Time: <38 Hours"
+    weight: 0.125
+    value: 136800
+  - name: "Time: <39 Hours"
+    weight: 0.125
+    value: 140400
+  - name: "Time: <40 Hours"
+    weight: 0.125
+    value: 144000
   - name: "Time: <1 Day"
     weight: 0.125
     value: 86400
