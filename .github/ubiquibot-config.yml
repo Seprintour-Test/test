@@ -165,7 +165,6 @@ default-labels:
   - "Time: <1 Hour"
   - "Priority: 1 (Normal)"
 assistive-pricing: true
-max-concurrent-bounties: 2
 comment-incentives: true
 command-settings:
   - name: "start"
