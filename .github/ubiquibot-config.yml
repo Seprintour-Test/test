@@ -1,3 +1,4 @@
 commandSettings:
   - name: "start"
     enabled: true
+incentiveMode: true
