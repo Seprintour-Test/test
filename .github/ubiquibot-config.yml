@@ -1,9 +1,3 @@
-priority-labels:
-  - name: "Priority: 1 (Normal)"
-  - name: "Priority: 2 (Medium)"
-  - name: "Priority: 3 (High)"
-  - name: "Priority: 4 (Urgent)"
-  - name: "Priority: 5 (Emergency)"
 default-labels:
   - "Time: <1 Hour"
   - "Priority: 1 (Normal)"
