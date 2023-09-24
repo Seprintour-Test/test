@@ -1,4 +1,6 @@
 commandSettings:
   - name: "start"
     enabled: true
+  - name: "wallet"
+    enabled: true
 commentIncentives: true
