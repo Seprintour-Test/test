@@ -164,7 +164,6 @@ priority-labels:
 default-labels:
   - "Time: <1 Hour"
   - "Priority: 1 (Normal)"
-analytics-mode: false
 assistive-pricing: true
 incentive-mode: true
 max-concurrent-bounties: 2
