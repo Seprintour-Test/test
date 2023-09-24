@@ -4,3 +4,13 @@ commandSettings:
   - name: "wallet"
     enabled: true
 commentIncentives: true
+incentives:
+  comment:
+    elements:
+      code: 30
+      img: 105
+      h1: 3
+      li: 1
+      blockquote: 0
+    totals:
+      word: 0.1
