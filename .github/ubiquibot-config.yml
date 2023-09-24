@@ -1,4 +1,3 @@
-comment-incentives: true
 command-settings:
   - name: "start"
     enabled: true
