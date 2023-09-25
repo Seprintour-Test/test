@@ -3,6 +3,8 @@ commandSettings:
     enabled: true
   - name: "wallet"
     enabled: true
+  - name: "approve"
+    enabled: true
 commentIncentives: true
 incentives:
   comment:
